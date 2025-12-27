@@ -28,6 +28,28 @@ https://www.kaggle.com/competitions/titanic
 
 ---
 
+## 🎬 TMDB – Box Office Revenue Prediction (Kaggle)
+
+This project is based on the Kaggle competition **“TMDB Box Office Prediction”**, where the goal is to predict a movie’s **worldwide box office revenue** using metadata available *before the movie’s release*.
+
+**Objective:**  
+Predict movie revenue based on features such as budget, cast & crew information, genres, release dates, production companies, languages, and plot-related metadata.
+
+**What I focused on:**
+- Working with a larger and more complex real-world dataset  
+- Handling missing values and noisy data  
+- Feature preprocessing for numerical and categorical variables  
+- Understanding how factors like budget and release timing influence revenue  
+- Training and evaluating regression-based machine learning models  
+
+**Tools & Technologies:**  
+Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
+
+📎 Kaggle competition:  
+https://www.kaggle.com/competitions/tmdb-box-office-prediction
+
+---
+
 ## 🚀 Next Steps
 
 - Continue with additional Kaggle exercises  
